@@ -171,5 +171,5 @@ jupyter notebook
 
 ## Author
 
-Rodrigo Furlan
+Rodrigo C. Furlan
 
