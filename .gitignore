@@ -1,28 +1,16 @@
-# Ambiente virtual
+# Virtual Environment
 venv/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
 
 # Jupyter
 .ipynb_checkpoints/
 
+# Python
+__pycache__/
+*.pyc
+
 # VS Code
 .vscode/
 
-# Sistema operacional
+# OS
 .DS_Store
 Thumbs.db
-
-# Arquivos temporários
-*.log
-
-# Distribuição
-build/
-dist/
-*.egg-info/
-
-# Variáveis de ambiente
-.env
