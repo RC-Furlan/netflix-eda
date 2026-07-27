@@ -86,7 +86,7 @@ Interpretation of results.
 
 ---
 
-## Main Analyses
+## Main Analysis
 
 - Data Cleaning
 - Missing Values
